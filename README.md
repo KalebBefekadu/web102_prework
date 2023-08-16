@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# Updated version - Sea Monster Crowdfunding*
 
 Submitted by: **Kaleb Befekadu**
 
-**Best version - Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Updated version - Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: ** 24 ** hours spent in total
 
@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://i.imgur.com/A2LtdCL.gif
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
